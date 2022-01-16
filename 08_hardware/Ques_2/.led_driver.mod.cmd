@@ -1,0 +1,1 @@
+cmd_/home/anshul/Device_Driver/Programs/hardware/Ques_2/led_driver.mod := { echo  /home/anshul/Device_Driver/Programs/hardware/Ques_2/led_driver.o;  echo; } > /home/anshul/Device_Driver/Programs/hardware/Ques_2/led_driver.mod

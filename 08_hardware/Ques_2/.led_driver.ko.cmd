@@ -1,0 +1,1 @@
+cmd_/home/anshul/Device_Driver/Programs/hardware/Ques_2/led_driver.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/anshul/Device_Driver/Programs/hardware/Ques_2/led_driver.ko /home/anshul/Device_Driver/Programs/hardware/Ques_2/led_driver.o /home/anshul/Device_Driver/Programs/hardware/Ques_2/led_driver.mod.o;  true
